@@ -1,4 +1,4 @@
-*********************************In multiwii code. add a #define I2C_GPS in config.h
+*********************************In multiwii code 2. add a #define I2C_GPS in config.h
 
 #define I2C_GPS      //I2C GPS and Navi modul
 //#define GPS
